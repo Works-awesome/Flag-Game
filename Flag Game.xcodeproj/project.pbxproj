@@ -281,6 +281,7 @@
 		DC2DC14F1DAF8F4B00EC4274 /* Game-show-correct-answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2DC14E1DAF8F4B00EC4274 /* Game-show-correct-answer.mp3 */; };
 		DC2DC1511DAF8F6700EC4274 /* Wrong-answer-sound-effect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2DC1501DAF8F6700EC4274 /* Wrong-answer-sound-effect.mp3 */; };
 		DC2DC1531DAFB22300EC4274 /* alldata.rtf in Resources */ = {isa = PBXBuildFile; fileRef = DC2DC1521DAFB22300EC4274 /* alldata.rtf */; };
+		DC4329CE1DB0988700150DD4 /* Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = DC4329CD1DB0988700150DD4 /* Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -564,6 +565,7 @@
 		DC2DC1501DAF8F6700EC4274 /* Wrong-answer-sound-effect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wrong-answer-sound-effect.mp3"; sourceTree = "<group>"; };
 		DC2DC1521DAFB22300EC4274 /* alldata.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = alldata.rtf; sourceTree = "<group>"; };
 		DC4329CC1DB096D300150DD4 /* Directions.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Directions.geojson; sourceTree = "<group>"; };
+		DC4329CD1DB0988700150DD4 /* Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -604,6 +606,7 @@
 				DC269F681DAF67B300FF7881 /* ViewController.m */,
 				DC2DC1491DAF8C2300EC4274 /* CurrencyViewController.h */,
 				DC2DC14A1DAF8C2300EC4274 /* CurrencyViewController.m */,
+				DC4329CD1DB0988700150DD4 /* Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png */,
 				DC2DC14E1DAF8F4B00EC4274 /* Game-show-correct-answer.mp3 */,
 				DC2DC1501DAF8F6700EC4274 /* Wrong-answer-sound-effect.mp3 */,
 				DC269F7A1DAF67F300FF7881 /* png */,
@@ -1099,6 +1102,7 @@
 				DC26A09C1DAF67F300FF7881 /* bermuda.png in Resources */,
 				DC26A13A1DAF67F300FF7881 /* puerto-rico.png in Resources */,
 				DC26A08D1DAF67F300FF7881 /* aruba.png in Resources */,
+				DC4329CE1DB0988700150DD4 /* Simulator Screen Shot Oct 14, 2016, 10.07.02 AM.png in Resources */,
 				DC26A0A61DAF67F300FF7881 /* brunei.png in Resources */,
 				DC26A0DB1DAF67F300FF7881 /* ghana.png in Resources */,
 				DC26A0B31DAF67F300FF7881 /* chile.png in Resources */,
